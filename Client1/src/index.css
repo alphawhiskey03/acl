@@ -1,0 +1,107 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+* {
+  font-family: "Bree Serif", serif;
+} */
+body {
+  background-color: rgb(247, 245, 245);
+}
+.MuiButton-text {
+  color: white !important;
+}
+.nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+span {
+  color: black;
+  padding: 10px;
+}
+.nav li {
+  font-family: "Oswald", sans-serif;
+  font-size: 0.9rem;
+  line-height: 40px;
+  height: 40px;
+  display: inline;
+  padding: 0 20px 0 20px;
+  color: white;
+}
+.container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 5px;
+}
+
+a {
+  color: #444;
+  /* font-size: 10px; */
+  /* text-decoration: none; */
+}
+.container input {
+  margin: 0.5rem;
+  outline: none;
+  padding: 0.7rem;
+  border-radius: 5px;
+  border: none;
+}
+.container button {
+  margin: 1rem;
+}
+.container a {
+  margin: 1rem;
+}
+form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+h2 {
+  color: white;
+}
+
+button {
+  outline: none;
+  border: none;
+  color: white;
+  padding: 10px;
+  background-color: #444;
+  border-radius: 5px;
+}
+button:hover {
+  color: #888;
+}
+
+.event {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  background-color: white;
+  width: 40rem;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+.builderClass .btn {
+  color: black;
+}
+
+.builderClass .builder-group-button {
+  background-color: grey;
+}
+.builderClass .btn-primary {
+  background-color: #424242;
+  color: white;
+}
