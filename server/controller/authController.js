@@ -9,8 +9,8 @@ const Menu=require("../models/menu");
 var transporter=nodemailer.createTransport({
     service:'gmail',
     auth:{
-        user:"s.vignesh0300@gmail.com",
-        pass:"vigneshnew@2203"
+        user:"[your mai]",
+        pass:"[your password]"
     }
 });
 
