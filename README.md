@@ -1,5 +1,4 @@
 # ACL
-<hr/>
 MERN app demonstrating Access control logic and dynamic form building.
 
 ### Tech stack
